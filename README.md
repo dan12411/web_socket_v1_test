@@ -6,7 +6,7 @@ WebSocket v1.0 test project
 
 ## Andriod Studio
 
-![Screenshot 2023-07-28 at 4 00 11 PM](https://github.com/dan12411/web_socket_v1_test/assets/21169170/0374500a-b0a4-4c3c-8b77-94f488c872c7)
+![Screenshot 2023-07-28 at 4 00 11 PM](https://github.com/dan12411/web_socket_v1_test/assets/21169170/7beb860b-5377-4891-a9ff-d617bd91e64b)
 
 ## flutter doctor
 ```script
